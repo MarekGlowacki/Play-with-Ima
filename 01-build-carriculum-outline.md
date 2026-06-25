@@ -1,1 +1,2 @@
 completed build a carriculum outline
+complete debug camperbot's profile page
