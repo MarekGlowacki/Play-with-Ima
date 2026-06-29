@@ -6,7 +6,7 @@
   </head>
   <body>
     <h1>THE RECIPE</h1>
-    <P>Explanation to the recipe</p>
+    <p>Explanation to the recipe</p>
     <h2>Ingredients</h2>
     <ul>
       <li>item 1</li>
