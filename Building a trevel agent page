@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Travel Agency Page</title>
+    <meta
+         name="description"
+         content="the agency that help people to travel any where in the world"
+         />
+  </head>
+
+  <body>
+    <h1>Travel Agency Page</h1>
+    <p>Travel opportunities</p>
+    <h2>Packages</h2>
+    <p>we offer various packages</p>
+      <ul>
+        <li>
+          <a href="https://www.freecodecamp.org/learn"target="_blank">
+           Group Travels
+         </a>
+        </li>
+        <li>
+          <a href="https://www.freecodecamp.org/learn"target="_blank">
+            Private Tours
+            </a>
+        </li>
+      </ul>
+    <h2>Top Itineraries</h2>
+      <figure>
+         <a href="https://www.freecodecamp.org/learn"target="_blank"><img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg"alt="a photo of The Colosseum in rome"></a>
+         <figcaption>colosseum in rome</figcaption>
+      </figure>
+      <figure>
+        <a href="https://www.freecodecamp.org/learn"target="_blank"><img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg"alt="the Tre Cime di Lavaredo">
+        </a>
+        <figcaption>the Tre Cime di Lavaredo (Three Peaks of Lavaredo) located in the Dolomites mountain range of Northern Italy.</figcaption>
+      </figure>
+      <figure>
+        <a href="https://www.freecodecamp.org/learn"target="_blank"><img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg"alt="a sailboat anchored in the shallow, turquoise waters of Favignana">
+        </a>
+        <figcaption>turquoise waters of Favignana</figcaption>
+      </figure>
+  </body>
+</html>
